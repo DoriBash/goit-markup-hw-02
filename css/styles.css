@@ -87,7 +87,7 @@ a {
 }
 .button-section-one:hover,
 .button-section-one:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 /* section-one-stop */
 
@@ -107,16 +107,18 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
-.section-title-three {
-  font-weight: 500;
-  font-size: 36px;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-align: center;
-  text-transform: capitalize;
-  color: #2e2f42;
+.our-team-text{
+font-weight: 700;
+font-size: 36px;
+line-height: 40px; 
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+text-align: center;
+color: #2e2f42;
 }
+
+
 .main-our-team {
   background-color: #ffffff;
 }
