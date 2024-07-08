@@ -46,10 +46,9 @@ a {
 .nav-link:hover,
 .nav-link:focus,
 .contacts-link:hover,
-.contacts-link:focus  {
+.contacts-link:focus {
   color: #404bbf;
 }
-
 
 .contacts-link {
   font-weight: 400;
@@ -107,17 +106,16 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.our-team-text{
-font-weight: 700;
-font-size: 36px;
-line-height: 40px; 
-line-height: 1.11111;
-letter-spacing: 0.02em;
-text-transform: capitalize;
-text-align: center;
-color: #2e2f42;
+.our-team-text {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+  color: #2e2f42;
 }
-
 
 .main-our-team {
   background-color: #ffffff;
